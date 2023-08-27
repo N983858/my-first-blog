@@ -1,0 +1,8 @@
+*.pyc
+*~
+/.vscpde
+__pycache__
+djvenv
+db.sqlite3
+/static
+.DS_Store
